@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mircea-rolodex/static/css/main.5a83533b.chunk.css",
+    "main.js": "/mircea-rolodex/static/js/main.26a68e09.chunk.js",
+    "main.js.map": "/mircea-rolodex/static/js/main.26a68e09.chunk.js.map",
+    "runtime-main.js": "/mircea-rolodex/static/js/runtime-main.794f6efe.js",
+    "runtime-main.js.map": "/mircea-rolodex/static/js/runtime-main.794f6efe.js.map",
+    "static/js/2.64325ab8.chunk.js": "/mircea-rolodex/static/js/2.64325ab8.chunk.js",
+    "static/js/2.64325ab8.chunk.js.map": "/mircea-rolodex/static/js/2.64325ab8.chunk.js.map",
+    "static/js/3.7b55f48c.chunk.js": "/mircea-rolodex/static/js/3.7b55f48c.chunk.js",
+    "static/js/3.7b55f48c.chunk.js.map": "/mircea-rolodex/static/js/3.7b55f48c.chunk.js.map",
+    "index.html": "/mircea-rolodex/index.html",
+    "static/css/main.5a83533b.chunk.css.map": "/mircea-rolodex/static/css/main.5a83533b.chunk.css.map",
+    "static/js/2.64325ab8.chunk.js.LICENSE.txt": "/mircea-rolodex/static/js/2.64325ab8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794f6efe.js",
+    "static/js/2.64325ab8.chunk.js",
+    "static/css/main.5a83533b.chunk.css",
+    "static/js/main.26a68e09.chunk.js"
+  ]
+}
